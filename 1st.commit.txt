@@ -1,0 +1,2 @@
+This is my first coomit via Git Bash!
+Wow!
