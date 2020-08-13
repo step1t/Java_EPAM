@@ -1,4 +1,6 @@
 This is my first coomit via Git Bash!
 Wow!
-````
+```
 And this is the second part of my Commit made via web-UI.
+
+//// This strings are for testing Git GUI
