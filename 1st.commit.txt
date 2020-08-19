@@ -6,4 +6,3 @@ And this is the second part of my Commit made via web-UI.
 //// This strings are for testing Git GUI
 
 + new branch called "feature"
-+ trying Non-fast forward merge
